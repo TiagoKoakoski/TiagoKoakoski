@@ -21,29 +21,19 @@ própria coleção de roguelikes de carta.
 
 ### `> ls stack/`
 
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39FF88)
 ![CloudStack](https://img.shields.io/badge/CloudStack-0D1117?style=for-the-badge)
 ![XCP--ng](https://img.shields.io/badge/XCP--ng-0D1117?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=39FF88)
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=for-the-badge&logo=ansible&logoColor=39FF88)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF88)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=39FF88)
 ![Zabbix](https://img.shields.io/badge/Zabbix-0D1117?style=for-the-badge&logo=zabbix&logoColor=39FF88)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=39FF88)
-![MariaDB](https://img.shields.io/badge/MariaDB_Galera-0D1117?style=for-the-badge&logo=mariadb&logoColor=39FF88)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=39FF88)
+![PostgreSQL · MariaDB · Redis](https://img.shields.io/badge/PostgreSQL_%C2%B7_MariaDB_%C2%B7_Redis-0D1117?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=39FF88)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=39FF88)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=39FF88)
 ![Tenable Nessus](https://img.shields.io/badge/Tenable_Nessus-0D1117?style=for-the-badge)
-![tmux](https://img.shields.io/badge/tmux-0D1117?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TiagoKoakoski&show_icons=true&theme=dark&title_color=39FF88&text_color=D7F5EE&icon_color=39FF88&bg_color=0D1117&border_color=39FF88&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoKoakoski&layout=compact&theme=dark&title_color=39FF88&text_color=D7F5EE&bg_color=0D1117&border_color=39FF88&hide_border=false" />
 
 </div>
 
